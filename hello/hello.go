@@ -2,8 +2,7 @@ package main
 
 import (
     "fmt"
-	"github.com/google/go-github/v48/github"
-    "github.com/jy0ung/goproj/greetings"
+    "github.com/jy0ung/goproj/greet"
 )
 
 func main() {
